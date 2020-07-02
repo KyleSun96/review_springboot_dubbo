@@ -13,6 +13,8 @@
         <module>dubbo_provider</module>
         <module>dubbo_consumer_xml</module>
         <module>dubbo_provider_xml</module>
+        <module>dubbo_consumer_config</module>
+        <module>dubbo_provider_config</module>
     </modules>
     <packaging>pom</packaging>
 
