@@ -11,7 +11,7 @@
     <!--服务的dubbo协议端口-->
     <dubbo:protocol port="20881" name="dubbo"></dubbo:protocol>
     <!--注册中心的地址-->
-    <dubbo:registry address="zookeeper://192.168.200.129:2181"></dubbo:registry>
+    <dubbo:registry address="zookeeper://localhost:2181"></dubbo:registry>
     <!--扫描包-->
     <!--<dubbo:annotation package="cn.itcast.dubbo.user"></dubbo:annotation>-->
 
