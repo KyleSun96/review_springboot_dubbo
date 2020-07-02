@@ -1,0 +1,15 @@
+server:
+  port: 9091  # 端口
+
+# Dubbo 配置
+# 注册中心、服务名称、dubbo协议、扫描包
+#dubbo:
+#  application:
+#    name: provider
+#  registry:
+#    address: zookeeper://192.168.200.129:2181
+#  protocol:
+#    name: dubbo
+#    port: 20880
+
+
